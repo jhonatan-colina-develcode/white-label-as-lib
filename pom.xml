@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.develcode</groupId>
 	<artifactId>white-label-as-lib</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>WhiteLabelAsPomLib</name>
 	<description>POC para validação da possibilidade de construir o White Label como uma dependência via pom</description>
