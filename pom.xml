@@ -51,4 +51,12 @@
 		</plugins>
 	</build>
 
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub OWNER Apache Maven Packages</name>
+			<url>https://maven.pkg.github.com/jhonatan-colina-develcode/white-label-as-lib</url>
+		</repository>
+	</distributionManagement>
+
 </project>
