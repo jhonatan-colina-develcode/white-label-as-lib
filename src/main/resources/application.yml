@@ -1,7 +1,7 @@
 server:
     port: 8080
     servlet:
-        context-path: /white-label
+        context-path: /white-label-lib
 spring:
     application:
         name: WhiteLabelAsPomLib

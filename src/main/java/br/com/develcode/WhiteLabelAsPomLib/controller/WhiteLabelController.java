@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/test2")
+@RequestMapping("/test3")
 public class WhiteLabelController {
 
     @GetMapping
