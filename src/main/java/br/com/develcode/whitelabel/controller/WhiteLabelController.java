@@ -1,4 +1,4 @@
-package br.com.develcode.WhiteLabelAsPomLib.controller;
+package br.com.develcode.whitelabel.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

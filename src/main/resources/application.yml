@@ -5,3 +5,15 @@ server:
 spring:
     application:
         name: WhiteLabelAsPomLib
+    datasource:
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        username: develcode
+        password: develcode123
+        url: jdbc:mysql://localhost:3306/WHITE-LABEL?createDatabaseIfNotExist=true
+    jpa:
+        generate-ddl: true
+        hibernate:
+            ddl-auto: update
+            naming:
+                physical-strategy: br.com.develcode.whitelabel.config.CustomNamingStrategy
+        show-sql: true
