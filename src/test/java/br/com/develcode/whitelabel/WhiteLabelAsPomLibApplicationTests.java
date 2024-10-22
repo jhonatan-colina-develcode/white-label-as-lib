@@ -1,4 +1,4 @@
-package br.com.develcode.WhiteLabelAsPomLib;
+package br.com.develcode.whitelabel;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
